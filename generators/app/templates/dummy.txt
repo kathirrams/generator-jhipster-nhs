@@ -1,4 +1,3 @@
 hello nhs!
-It's dummy.txt
-
+ <%= moduleName %>!
 kathir test
